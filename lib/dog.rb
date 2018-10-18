@@ -18,3 +18,5 @@ def bark
 end
 
 end
+
+fidoo = Dog.new
